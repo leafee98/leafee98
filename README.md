@@ -1,1 +1,1 @@
-[![](https://github-readme-stats.vercel.app/api?username=leafee98&show_icons=true&theme=transparent)](#)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github-readme-stats.vercel.app/api/top-langs/?username=leafee98&layout=compact)](#)
+[![](https://github-readme-stats.vercel.app/api?username=leafee98&show_icons=true&theme=transparent&card_width=320)](#)&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github-readme-stats.vercel.app/api/top-langs/?username=leafee98&layout=compact&card_width=320)](#)
